@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1920" viewBox="0 0 1920 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.651px;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        fill: #e7e7e7;
+      }
+
+      .cls-1, .cls-2, .cls-6 {
+        text-anchor: middle;
+        font-family: "Future Worlds";
+        font-style: italic;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 166.667px;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 133.302px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 261.499px;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="771" y="843" width="231" height="204" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="771" y="843" width="231" height="204" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjMxIiBoZWlnaHQ9IjIwNCIgdmlld0JveD0iMCAwIDIzMSAyMDQiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB5MT0iMTAyIiB4Mj0iMjMxIiB5Mj0iMTAyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzcwNDVkMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMDAxIiBzdG9wLWNvbG9yPSIjNzA0NWQxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBlYzE0ZCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMjMxIiBoZWlnaHQ9IjIwNCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="_2021" data-name="2021" class="cls-1" transform="matrix(1.862, 0, 0, 1.862, 923.355, 1219.686)"><tspan x="0">2021</tspan></text>
+  <text id="HAXMAS" class="cls-2" transform="matrix(1.569, 0, 0, 1.569, 934.954, 1046.709)"><tspan x="0">H<tspan class="cls-3">A</tspan><tspan class="cls-4">X</tspan><tspan class="cls-5">MAS</tspan></tspan></text>
+  <text id="X" class="cls-6" x="855.625" y="1047.475"><tspan x="855.625">X</tspan></text>
+</svg>
