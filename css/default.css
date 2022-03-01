@@ -1,4 +1,4 @@
-﻿/*!
+/*!
 * Created by Kroplet (https://www.kroplet.com) 
 * The easiest way to create Bootstrap 4 themes. 
 */
@@ -9012,10 +9012,11 @@ font-size: 10px;
 
 /* --------------- Form Styles -------------- */
 .register {
-  max-width: 968px;
-  margin-left: 500px;
+  max-width: 3000px;
+  margin-left: 200px;
   align-content: center;
 }
+
 
 .section-f {
   position: relative;
@@ -9057,7 +9058,7 @@ font-size: 10px;
   justify-content: center;
   /* align-items: center; */
   padding: 30px 50px;
-  background: linear-gradient(rgba(13, 163, 118, 0.3), rgba(95, 255, 180, 0.8));
+  background: linear-gradient(rgb(0, 51, 153), rgba(95, 255, 180, 0.8));
   
 }
 
@@ -9111,7 +9112,7 @@ font-size: 10px;
 }
 
 form .page .field .label {
-  position: absolute;
+  position:absolute;
   top: -30px;
   font-weight: 600;
 }
@@ -9190,6 +9191,7 @@ select:focus {
 }
 
 #query-input:focus {
+  background-color: #00b7cc;
   border-bottom: 4px solid rgba(43, 255, 184, 0.8);
 }
 
@@ -9397,6 +9399,7 @@ form .page .btns button.next {
     margin: 30px 0 10px;
     font-weight: 500;
   }
+  
 }
 
 
