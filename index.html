@@ -702,13 +702,13 @@
 
                   <div class="field">
                     <div class="label">For Queries</div><br>
-                    <textarea name="Queries" rows="30" cols="70" id="query-input" type="text"></textarea>
+                    <textarea name="Queries" rows="30" cols="70" id="query-input" type="text" style="border-style: solid"></textarea>
                   </div>
 
                   <div class="field">
                     <div class="label merch">
-                      <p>If your team interested in our Official merchandise, type in YES or NO below.</p><br>
-                    </div>
+                      Is your team interested in Haxmas Official merchandise(YES or NO).
+                    </div><br><br>
                     <input name="Merchandise" id="merchandise-input" type="text" class="merchandise-input" />
                   </div>
 
@@ -838,7 +838,7 @@
       $("#submit-form").submit((e) => {
         e.preventDefault();
         $.ajax({
-          url: "https://script.google.com/macros/s/AKfycbyZaAkm9BFtw2u2j5g_ZZeFCkD0bnIX96J3VpggyKnowIfKuCAHoYON9EJImrcT0Es/exec",
+          url: "https://script.google.com/macros/s/AKfycbzgLf-d1-maxORvPw9nDqrlAWz7OkQb55P9M2hFFZPwuce9qE385gFjbDaHWkrzW9Z9/exec",
           data: $("#submit-form").serialize(),
           method: "post",
           success: function (response) {
