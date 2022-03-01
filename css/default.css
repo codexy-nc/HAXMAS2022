@@ -9053,12 +9053,12 @@ font-size: 10px;
 
 .contentB {
    display: flex;
-  /*width: 50%;*/
+  width: 660px;
   height: 130vh;
   justify-content: center;
   flex-direction: column;
   align-items: center; 
-  padding: 30px 50px;
+  /*padding: 30px 50px;*/
   background: linear-gradient(rgb(0, 51, 153), rgba(95, 255, 180, 0.8));
 }
 
