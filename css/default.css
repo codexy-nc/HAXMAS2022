@@ -9402,6 +9402,7 @@ form .page .btns button.next {
   .sponsor_section .column {
     flex: 25%;
     padding: 2px;
+    flex-shrink: 1;
   }
   
   /* Clear floats after image containers */
